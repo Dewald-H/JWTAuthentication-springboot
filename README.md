@@ -1,6 +1,6 @@
 # 🛡️ Spring Boot 3 JWT Authentication
 
-This project implements a modern **JWT-based authentication system** using **Spring Boot 3** and **Spring Security 6**, inspired by [Amigoscode’s tutorial](https://www.youtube.com/@amigoscode).
+This project implements a modern **JWT-based authentication system** using **Spring Boot 3** and **Spring Security 6**.
 
 It provides a clean and production-ready structure for securing REST APIs with JSON Web Tokens (JWT).
 
